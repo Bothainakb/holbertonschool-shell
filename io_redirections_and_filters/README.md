@@ -1,1 +1,1 @@
-Test
+This script print Hello, World
